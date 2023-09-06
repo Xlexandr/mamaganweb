@@ -1717,6 +1717,7 @@ LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
 ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 archive
 
 The MIT License
@@ -1742,6 +1743,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 --------------------------------------------------------------------------------
+=======
+>>>>>>> 1198cc8740f2675156a1b9c13072119ed9afb72a
 async
 collection
 stream_channel
@@ -4586,7 +4589,10 @@ material_color_utilities
    See the License for the specific language governing permissions and
    limitations under the License.
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 convert
+=======
+>>>>>>> 1198cc8740f2675156a1b9c13072119ed9afb72a
 crypto
 
 Copyright 2015, the Dart project authors.
@@ -28767,6 +28773,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 js
 
 Copyright 2012, the Dart project authors.
@@ -28798,6 +28805,8 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
+=======
+>>>>>>> 1198cc8740f2675156a1b9c13072119ed9afb72a
 json
 
 Copyright (c) 2013-2022 Niels Lohmann
@@ -30595,6 +30604,7 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 lottie
 
 MIT License
@@ -30620,6 +30630,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 --------------------------------------------------------------------------------
+=======
+>>>>>>> 1198cc8740f2675156a1b9c13072119ed9afb72a
 perfetto
 
 Apache License
@@ -30810,6 +30822,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 pointycastle
 
 
@@ -30834,6 +30847,8 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 --------------------------------------------------------------------------------
+=======
+>>>>>>> 1198cc8740f2675156a1b9c13072119ed9afb72a
 rapidjson
 
 Copyright (C) 2015 THL A29 Limited, a Tencent company, and Milo Yip-> All rights reserved->

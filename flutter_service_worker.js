@@ -4,9 +4,15 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"version.json": "e70a23a1f514efed57f90e2fb012cc6e",
+<<<<<<< HEAD
 "index.html": "c1aad9e48bd097fea2ea3e1bfe59de7b",
 "/": "c1aad9e48bd097fea2ea3e1bfe59de7b",
 "main.dart.js": "c8ef2556d5f0b9c19468a860ff4dce15",
+=======
+"index.html": "e7b5d21fb221a9caf63d7744d22e66a5",
+"/": "e7b5d21fb221a9caf63d7744d22e66a5",
+"main.dart.js": "6016e561e4835eb21f49f1aa24cb0981",
+>>>>>>> 1198cc8740f2675156a1b9c13072119ed9afb72a
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -104,20 +110,32 @@ const RESOURCES = {"version.json": "e70a23a1f514efed57f90e2fb012cc6e",
 ".git/index": "7398b098996bc1c07f27f8c18a986b10",
 ".git/COMMIT_EDITMSG": "f5302386464f953ed581edac03556e55",
 ".git/FETCH_HEAD": "6fcf312dffffe644bc534dd1b0a5f2ec",
+<<<<<<< HEAD
 "assets/AssetManifest.json": "e516e192bd7b1d95909645f6abc2a311",
 "assets/NOTICES": "0212317167a7240d8bdc7700d493cc4b",
 "assets/FontManifest.json": "676c1a4327bb303d885853bddb5d6cf7",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "assets/AssetManifest.bin": "af66710ea65ef9caadf646fc80e03936",
+=======
+"assets/AssetManifest.json": "d1d089617acefafd36b0cedb7bd9e534",
+"assets/NOTICES": "82d8bd8f526b8009dafb1ee3102817c0",
+"assets/FontManifest.json": "676c1a4327bb303d885853bddb5d6cf7",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
+"assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
+"assets/AssetManifest.bin": "b9f4fcbc5843603eba6976ef762fe263",
+>>>>>>> 1198cc8740f2675156a1b9c13072119ed9afb72a
 "assets/fonts/MaterialIcons-Regular.otf": "419cb8a91a83f119c5e2c0f9dad90e1a",
 "assets/assets/p7.jpeg": "592f4e83c0b7c4577fcce158dc17a325",
 "assets/assets/p6.jpeg": "5490cda414cc42a21c555103ee590d46",
 "assets/assets/p1.jpeg": "35874a9e05f0c2a917c53e54574bb981",
 "assets/assets/p3.jpeg": "e557ee37281249217d47838a35f712f6",
 "assets/assets/p2.jpeg": "f3b14f5a8cae551d498048f6cdc0a2bf",
+<<<<<<< HEAD
 "assets/assets/pixels.json": "801fade784b7f186141b81db27d0be28",
 "assets/assets/Singer.json": "c0f22b70d5a9f1a125a4100a5f31c36e",
+=======
+>>>>>>> 1198cc8740f2675156a1b9c13072119ed9afb72a
 "assets/assets/p5.jpeg": "e58c970cc1df9e150e20ae0b68e97861",
 "assets/assets/p4.jpeg": "6fb8ac35890f81abb12ee0d26ec8b98b",
 "assets/assets/RobotoSlab-Regular.ttf": "e7789f2202c55ee4373f072945cf6a24",
